@@ -21,4 +21,4 @@ do i need to set clock wventhog jd jawdo a
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+List external hardware used in your project (e.g. PMOD, LED display, etc), if any awd awoj dawobd a
