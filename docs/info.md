@@ -10,10 +10,14 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works is this eneough
+why do you not work did 
 
 ## How to test
 
 Explain how to use your project hopefulyy it is and this is a test do not misunderstand
+why do you not work did 
+
+do i need to set clock wventhog jd jawdo a
 
 ## External hardware
 
